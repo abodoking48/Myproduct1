@@ -1,0 +1,30 @@
+body {
+    
+}
+.dv1, .dv2, .dv3 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    background-color: #c7c5c5;
+    color: #fff;
+    margin: 10px auto;
+    background-image: url(/static/icons/css-assignment-5-8.png);
+    
+}
+p {
+    margin-left: 30px;
+}
+.dv1 {
+    background-repeat: no-repeat;
+    
+}
+.dv2 {
+    opacity: 0.7;
+    background-repeat: repeat-y;
+    background-position: right;
+}
+.dv3 {
+    /* opacity: 0.2; */
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
